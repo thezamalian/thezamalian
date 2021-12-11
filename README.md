@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ZamHoss
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Reactjs
+- 👋 Hi, I’m Zamal Hossain
+- 👀 I’m interested in Web Development(MERN stack).
+- 🌱 I’m currently with FrontEnd techs. 
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me www.facebook.com/thezamalian/
 
